@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 # File: nevens
+# function takes sequence as input and returns number of evens
 
 function nevens() {
 	array=( $@ )
