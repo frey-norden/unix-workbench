@@ -1,0 +1,16 @@
+Applications
+DFIR
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+VirtualBox VMs
+dev
+history_text.txt
+history_text2.txt
+try-chef
+web

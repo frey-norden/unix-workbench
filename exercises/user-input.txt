@@ -1,0 +1,1 @@
+Write a script that asks the user for an adjective, a noun, and a verb, and then use those words in a sentence (like Mad Libs).

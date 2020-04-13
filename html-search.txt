@@ -1,0 +1,13 @@
+./docs/nephology.html
+./docs/index.html
+./docs/bash-programming.html
+./docs/git-and-github.html
+./docs/dedication.html
+./docs/getting-unix.html
+./docs/working-with-unix.html
+./docs/start-building.html
+./docs/what-is-unix.html
+./docs/acknowledgements.html
+./docs/introduction.html
+./docs/command-line-basics.html
+./google_analytics.html

@@ -1,0 +1,27 @@
+Arizona
+California
+Colorado
+Connecticut
+Florida
+Georgia
+Idaho
+Illinois
+Iowa
+Louisiana
+Minnesota
+Missouri
+Montana
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Rhode Island
+South Carolina
+South Dakota
+Vermont
+Washington
+Wisconsin
+Wyoming

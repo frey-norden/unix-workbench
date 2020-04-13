@@ -1,0 +1,9 @@
+- use mkdir
+- use touch
+- use > to redirect output of a command into a file
+- use >> to append data to a file
+- use cat to output file contents in terminal
+- use wc to get word count/ inspect properties of a file
+- use head to see beginning of a file
+- use less to scroll through a file
+- use nano to edit a file
