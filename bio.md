@@ -2,7 +2,7 @@
 
 ### Geography
 
-I am a Texan living in Helsinki, Finland. I am the father of two bilingual chidren, who speak both Swedish and English. I speak a littleFinnish (because this is Finland), a little more Swedish ('cus it's easier to learn for an English-speaker), a little Spanish ('cus yo soy de Tejas), and a couple others too (b/c I am internationally oriented and enjoy learning languages).
+I am a Texan living in Helsinki, Finland. I am the father of two bilingual chidren, who speak both Swedish and English. I speak a little Finnish (because this is Finland), a little more Swedish ('cus it's easier to learn for an English-speaker), a little Spanish ('cus yo soy de Tejas), and a couple others too (b/c I am internationally oriented and enjoy learning languages).
 
 ### Reading
 
@@ -26,7 +26,7 @@ My hobbies revolve around two themes - Music and Sports.
 2. Music
 - Drums: Samba reggae - caixa (Traditional Bahian rythms )
 - Guitar: Blue-rock á la Jimi Hendrix
-- Piano: basics of classical and popular music from Beehtoven to the Beatles
+- Piano: basics of classical and popular music from Beethoven to the Beatles
 - Singing: all styles, multiple languages
 3. Sports
 - Swimming
