@@ -24,8 +24,8 @@ My hobbies revolve around two themes - Music and Sports.
 - La Rumba
 - Bachata
 2. Music
-- Drums: Samba reggae - caixa (Traditional Bahian rythms )
-- Guitar: Blue-rock á la Jimi Hendrix
+- Drums: Samba reggae - caixa (Traditional Bahian rhythms )
+- Guitar: Blue-rock á la Jimi Hendrix, T-Bone Walker, maybe some Beach Boys, Bob Marley, George Strait
 - Piano: basics of classical and popular music from Beethoven to the Beatles
 - Singing: all styles, multiple languages
 3. Sports
