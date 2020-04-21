@@ -1,5 +1,7 @@
 #!/bin/zsh
 # File: guessinggame.sh
+# Author: Frey Norden - 2020-21-04
+# this program outputs number of files in pwd, then prompts user to guess until they win or loose patience and vacate the scene. **note** try bisectional search for the win :)
 
 function lines(){	
 	ls > dir.txt
