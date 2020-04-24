@@ -4,8 +4,7 @@
 # this program outputs number of files in pwd, then prompts user to guess until they win or loose patience and vacate the scene. **note** try bisectional search for the win :)
 
 function lines(){	
-	ls > dir.txt
-	files=$(wc -l < dir.txt)
+	files=$(ls | wc -l )
 	echo $files
 }
 
@@ -25,8 +24,8 @@ function game(){
 	echo "Congrats! We have a Winner!!!! You guessed the correct number"
 }
 
-function main(){
+function play(){
 	game
 }
 
-main
+play
